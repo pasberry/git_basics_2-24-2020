@@ -8,5 +8,8 @@
 -`diff` : look at the difference between two states
 -`log` : look at the history
 	`log --online` : look at the history abbreviated in the one line view
+-`checkout <hash><file>` : restore a single file from a point in history
+	-`checkout <hash>` : restore the entire folder to that point in time
 
 - index/staging area : files in here will be commited
+-`HEAD` : where you are looking in git history
