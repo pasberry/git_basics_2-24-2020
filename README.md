@@ -18,4 +18,5 @@
 - `push` : send the code to our remote
 - `pull` : get code from our remote (does a `fetch` and a `merge`)
 
+- hello
 ##New stuff
